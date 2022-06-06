@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, je suis Armand WADJI</h1>
 <h3 align="center">Développeur Web et Mobile</h3>
 <h3 align="center">
- <img src="https://user-images.githubusercontent.com/90448006/172231441-7ffa7e0d-de62-4fe1-93ad-88ed769e06fe.jpg" width="100%" height="100%" objet-fit="cover" />
+ <img src="https://user-images.githubusercontent.com/90448006/172231441-7ffa7e0d-de62-4fe1-93ad-88ed769e06fe.jpg" width="100%" height="100%" object-fit="cover" />
 </h3>
 
 - 💬 Sujet de prédilection **javascript, Reactjs, Nodejs**
