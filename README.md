@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/armandwadji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armandwadji" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/armand-wadji-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armand-wadji-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/shaki_retouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaki_retouch" height="30" width="40" /></a>
-<a href="https://codepen.io/armandwadji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="armandwadji" height="30" width="40" /></a>
+<a href="https://twitter.com/armandwadji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armandwadji" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/armand-wadji-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armand-wadji-dev" height="30" width="40" /></a>
+<a href="https://instagram.com/shaki_retouch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaki_retouch" height="30" width="40" /></a>
+<a href="https://codepen.io/armandwadji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="armandwadji" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
