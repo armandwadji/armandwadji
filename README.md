@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, je suis Armand WADJI</h1>
 <h3 align="center">Développeur Web et Mobile</h3>
-<h3 align="center">
+<h3 align="left">
 <img src="https://user-images.githubusercontent.com/90448006/172223402-6ba40953-0b21-48f1-a8f4-3c8b6ba83dff.jpg" width="200px" height="200px" />
 </h3>
 
