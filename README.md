@@ -13,8 +13,9 @@
 - 🌱 Je suis en trains d'apprendre **Typescript,**
 
 
-
-<h3 align="left">Languages and Tools:</h3>
+<br> 
+<h3 align="left">LANGUAGE AND TOOLS:</h3>
+<hr>
 
 -Frontend : 
 <p align="left"> 
