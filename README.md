@@ -12,6 +12,17 @@
 
 - 🌱 Je suis en trains d'apprendre **Typescript,**
 
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/armandwadji?tab=repositories)
+
+<hr>
+
+![Armand WADJI github stats](https://github-readme-stats.vercel.app/api?username=armandwadji&theme=blue-green)
+
+[![Armand WADJI top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armandwadji&theme=blue-green)](
+(https://github.com/armandwadji))
+
+[![Armand WADJI github streak](https://github-readme-streak-stats.herokuapp.com/?user=armandwadji&theme=blue-green)]((https://github.com/armandwadji))
+
 
 <br> 
 <h3 align="left">LANGUAGE AND TOOLS:</h3>
