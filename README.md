@@ -78,7 +78,7 @@
 </p>
 
 <br> 
-<h3 align="left">CONTACT ME : </h3>
+<h3 align="left">CONNECT WITH ME : </h3>
 <hr>
 
 <p align="left">
