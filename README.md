@@ -6,7 +6,7 @@
 
 - 💬 Sujets de prédilection **javascript, Reactjs, Nodejs**
 
-- 👨‍💻 Mon portfolio : [https://armandwadji.netlify.app](https://armandwadji.netlify.app)
+- 👨‍💻 Mon portfolio : [Portfolio](https://armandwadji.netlify.app)
 
 - 📫 Comment me contacter **armandwadji94@gmail.com**
 
