@@ -16,12 +16,13 @@
 
 <hr>
 
-![Armand WADJI github stats](https://github-readme-stats.vercel.app/api?username=armandwadji&theme=blue-green)
+<a href="http://www.github.com/armandwadji"><img src="https://github-readme-stats.vercel.app/api?username=armandwadji&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="armandwadji's GitHub stats" /></a>
 
-[![Armand WADJI top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armandwadji&theme=blue-green)](
-(https://github.com/armandwadji))
+<a href="http://www.github.com/armandwadji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=armandwadji&stroke=10b981&background=000000&ring=0891b2&fire=0891b2&currStreakNum=10b981&currStreakLabel=0891b2&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
-[![Armand WADJI github streak](https://github-readme-streak-stats.herokuapp.com/?user=armandwadji&theme=blue-green)]((https://github.com/armandwadji))
+<a href="https://github.com/armandwadji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandwadji&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/armandwadji"><img src="https://activity-graph.herokuapp.com/graph?username=armandwadji&bg_color=000000&color=10b981&line=0891b2&point=10b981&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 <br> 
