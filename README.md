@@ -4,7 +4,7 @@
  <img src="https://user-images.githubusercontent.com/90448006/172231441-7ffa7e0d-de62-4fe1-93ad-88ed769e06fe.jpg" width="100%" height="100%" object-fit="cover" />
 </h3>
 
-- 💬 Sujets de prédilection **JavaScript, React-Js / React-Native, Nodejs**
+- 💬 Sujets de prédilection **JavaScript, React-Js / React-Native, Node-Js**
 
 - 👨‍💻 Mon portfolio : [Portfolio](https://armandwadji.netlify.app)
 
