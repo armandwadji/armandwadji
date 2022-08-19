@@ -22,8 +22,6 @@
 
 <a href="https://github.com/armandwadji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandwadji&langs_count=10&title_color=3382ed&text_color=22c55e&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/armandwadji"><img src="https://activity-graph.herokuapp.com/graph?username=armandwadji&bg_color=000000&color=22c55e&line=3382ed&point=22c55e&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 
 <br> 
 <h3 align="left">LANGUAGE AND TOOLS:</h3>
