@@ -14,7 +14,7 @@
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/armandwadji?tab=repositories)
 
-<hr>
+<hr> 
 
 <a href="http://www.github.com/armandwadji"><img src="https://github-readme-stats.vercel.app/api?username=armandwadji&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=22c55e&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="armandwadji's GitHub stats" /></a>
 
