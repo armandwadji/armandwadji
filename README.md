@@ -16,12 +16,7 @@
 
 <hr> 
 
-<a href="http://www.github.com/armandwadji"><img src="https://github-readme-stats.vercel.app/api?username=armandwadji&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=22c55e&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="armandwadji's GitHub stats" /></a>
-
 <a href="http://www.github.com/armandwadji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=armandwadji&stroke=22c55e&background=000000&ring=3382ed&fire=3382ed&currStreakNum=22c55e&currStreakLabel=3382ed&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
-
-<a href="https://github.com/armandwadji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandwadji&langs_count=10&title_color=3382ed&text_color=22c55e&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 <br> 
 <h3 align="left">LANGUAGE AND TOOLS:</h3>
