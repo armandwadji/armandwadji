@@ -10,8 +10,6 @@
 
 - 📫 Comment me contacter **armandwadji94@gmail.com**
 
-- 🌱 Je suis en trains d'apprendre **TypeScript et React-Native**
-
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/armandwadji?tab=repositories)
 
 <hr> 
